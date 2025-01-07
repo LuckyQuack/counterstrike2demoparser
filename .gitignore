@@ -1,0 +1,6 @@
+# Exclude the virtual environment directory
+backend/__pycache__/
+venv/
+frontend/node_modules/
+cstemp/
+csdemos/
