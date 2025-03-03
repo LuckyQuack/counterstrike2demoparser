@@ -23,7 +23,6 @@ A web application that parses CS2 demo files (.dem) and displays detailed match 
 - uvicorn
 - demoparser2
 - pandas
-- mysql-connector-python
 
 ### Frontend Requirements
 - Node.js
